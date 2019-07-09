@@ -21,7 +21,7 @@
     "@vue/cli-plugin-typescript": "^3.9.0",
     "@vue/cli-service": "^3.9.2",
     "lint-staged": "^9.1.0",
-    "typescript": "^3.4.3",
+    "typescript": "^3.5.3",
     "vue-template-compiler": "^2.6.10"
   },
   "postcss": {
