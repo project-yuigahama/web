@@ -18,7 +18,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.2",
     "@vue/cli-plugin-pwa": "^3.9.0",
-    "@vue/cli-plugin-typescript": "^3.9.0",
+    "@vue/cli-plugin-typescript": "^3.10.0",
     "@vue/cli-service": "^3.10.0",
     "lint-staged": "^9.2.1",
     "typescript": "^3.5.3",
